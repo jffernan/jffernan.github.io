@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "'why did i decide to learn software development'"
-date:   2017-06-16 21:51:17 +0000
+title:  "why did i decide to learn software development"
+date:   2017-06-16 17:51:18 -0400
 ---
 
 I am making a career change in my mid-40s.  I am always looking for a new challenge to undertake.  I see working in the tech industry as a continual challenge because tech is always changing and evolving.  I am also a lifelong learner.  There seems to always be something new to learn in programming!  
