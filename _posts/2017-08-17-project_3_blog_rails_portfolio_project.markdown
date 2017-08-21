@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Project #3 Blog: Rails Portfolio Project"
-date:   2017-08-17 04:43:32 +0000
+date:   2017-08-17 00:43:33 -0400
 ---
 
 
@@ -23,7 +23,8 @@ First-off, I am going to blog about some differences between Sinatra and Rails, 
 •	Filters: methods that are run "before", "after" or "around" a controller action; example: ‘before_action :require_login’ requires that a user is logged in for an action to be run e.g. show’, ‘edit’, ‘update’, or ‘delete’.
 •	Nested Resources: Parent-Child relationship (of has_many with belongs_to) reflected in nested routes.  Provides a child-form that relates to the parent resource. Imagine an application with user profiles. You might represent a person's profile via the RESTful URL of /profiles/1, where 1 is the primary key of the profile. If the person wanted to add pictures to their profile, you could represent that as a nested resource of /profiles/1/pictures, listing all pictures belonging to profile 1. The route /profiles/1/pictures/new allows upload a new picture to profile 1.
 •	Scope methods instead of class methods, which keep logic in Model, and try to keep only Actions in Controller.
-Now, I have decided to build a “Restaurant Review” app, which I can easily visually the user interface for and how it will look & work.  Next, I must say I am big on “user friendliness.”  I want to build software that is easy to use and understand for users.  Also, I think the less clicks and moving the mouse around is especially better for the user!  I will try to keep it simple for the user aka “KISS,” but still have consistent views and messages to the user. Along those lines, there is the programmer’s principle of DRY, which means “don’t repeat yourself.”  DRY also benefits the user so he/she doesn’t have to repeat the same action or see the same thing such as a duplicate message.  Again, I will try to focus heavily on the user while doing my best to KISS and DRY at the same time!
+
+Now, I have decided to build a “Restaurant Review” app, which I can easily visually the user interface for and how it will look & work.  Next, I must say I am big on “user friendliness.”  I want to build software that is easy to use and understand for users.  Also, I think the less clicks and moving the mouse around is especially better for the user!  I will try to keep it simple for the user aka “KISS,” but still have consistent views and messages to the user. Along those lines, there is the programmer’s principle of DRY, which means “don’t repeat yourself.”  DRY also benefits the user so he/she doesn’t have to repeat the same action or see the same thing such as a duplicate message.  Again, I will try to focus heavily on the user while doing my best to KISS and DRY at the same time!  I want the app to be easy to use, easy to read, and easy to understand for users!
 
 I will be starting off with coding the user “signup/login” interface.  As I said above, I will be visualizing how my “Restaurant Review” app will work, how the user will see & use it, and I will focus strongly on the app being very user-friendly and easy to understand!  I like following steps so I grabbed this from the intro video “How to build a CLI Gem” from the 1st project.
 
