@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basics of Javascript functions"
-date:   2017-08-25 16:38:30 +0000
+date:   2017-08-25 12:38:31 -0400
 ---
 
 
