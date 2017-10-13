@@ -40,4 +40,5 @@ The following list highlights the key features of My React Weather App:
 •	I implemented a map feature that integrates with the GMaps library and renders the map from Google Maps.  The user can select their location from the map to fetch weather, as an alternative to typing the location.
 
 •	I created the capability for the user to save their ‘favorite’ locations in a list along with the abilities to select a location from their ‘favorites’ list to fetch weather and to delete a location.
+
 Thank you for reading my blog!  Visit GitHub to download my app at: https://github.com/jffernan/my-react-weather-app.  Thanks again!
