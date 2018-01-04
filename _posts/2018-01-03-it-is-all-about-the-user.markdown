@@ -8,7 +8,7 @@ As a budding full stack software developer, I place a heavy focus on meeting use
 
 What should that experience look like for an end-user?  Here are some good characteristics in user-friendliness.
 
--The program should be easy to use and convenient. For example, I think the less clicks and moving the mouse around, the better for the user.
+-The program should be easy to use and convenient. For example, I think the less clicks, the less typing, and the less moving the mouse around, the better for the user.
 
 -The User Interface (UI) should be easy to understand. For example, the text on-screen should be easy to read.  I also think the less technical jargon the better.
 
@@ -22,7 +22,7 @@ Here are some other tips I try to follow in the development process.
 
 -If possible, sketch out a rough mock of how the app should look like on-screen. This can help identify what the components will be in the app, like in using React JavaScript library.
 
--Develop software that you will use yourself!
+-Develop software that you personally would use yourself!
 
 -KISS aka “keep it simple silly”. Try to keep the app (and code) as simple as possible. Along those lines, in React, best practices are to keep components and any internal state within a component as small as possible. Also, the easiest way to start building is by rendering the data model in the UI, but with no interactivity. Starting with a static version of the app won’t require state yet, because state is reserved only for interactivity, that is, data that changes over time.
 
@@ -32,6 +32,6 @@ Here are some other tips I try to follow in the development process.
 
 -Try to observe “separation of concerns” (SOC) patterns. For instance, keep HTML code in html file, keep CSS code in css file, keep Javascript code in js file, etc. For instance, the "business logic" of software is a concern, and the interface through which a user uses this “presentation logic” is another. The separation of concerns is keeping the code for each of these concerns separate.
 
--A similar technique is the single responsibility principle (SRP), that is, a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents in the app, where in React, data can be passed using props. Props are a way of passing data from parent to child component.
+-A similar technique is the single responsibility principle (SRP), that is, a component should ideally only do one thing. If it ends up growing, it should be decomposed into smaller subcomponents in the app, where in React, data can be passed using "props". Props are a way of passing data from parent to child component.
 
 I hope you find this blog helpful!  Thanks for reading!
