@@ -22,7 +22,7 @@ Here are some other tips I try to follow in the development process.
 
 -If possible, sketch out a rough mock of how the app should look like on-screen. This can help identify what the components will be in the app, like in using React JavaScript library.
 
--Develop software that you personally would use yourself!
+-Develop software that is practical you personally would use yourself!
 
 -KISS aka “keep it simple silly”. Try to keep the app (and code) as simple as possible. Along those lines, in React, best practices are to keep components and any internal state within a component as small as possible. Also, the easiest way to start building is by rendering the data model in the UI, but with no interactivity. Starting with a static version of the app won’t require state yet, because state is reserved only for interactivity, that is, data that changes over time.
 
