@@ -14,15 +14,13 @@ What should that experience look like for an end-user?  Here are some good chara
 
 -Give the user multiple options to execute the same action.  For example, in submitting form data, the user should be able to hit enter on the keyboard or click a button via mouse (or touch screen like on a mobile app) to save their input.
 
-The full cycle of professional software development - from ideation to completion is: Idea -> Design -> Implement -> Test -> Iterate.  Throughout the development process, and especially at the beginning stage of a new app idea, I try to focus heavily on how the app will work from the user's perspective, such as imagining how the program will look and function for the user.  Visualize what the user will see and how the user will use the program.
-
-Here are some other tips I try to follow in the development process.
+The full cycle of professional software development - from ideation to completion is: Idea -> Design -> Implement -> Test -> Iterate.  Throughout the development process, and especially at the beginning stage of a new app idea, I try to focus heavily on how the app will work from the user's perspective, such as imagining how the program will look and function for the user.  Visualize what the user will see and how the user will use the program.  Along those lines, here are some other tips to follow in the development process.
 
 -Identify what are the user need(s)?  What user problem(s) exist(s) that the software can try to solve for the user?
 
 -If possible, sketch out a rough mock of how the app should look like on-screen. This can help identify what the components will be in the app, like in using React JavaScript library.
 
--Develop software that is practical you personally would use yourself!
+-Develop software that is practical and that you personally would use yourself!
 
 -KISS aka “keep it simple silly”. Try to keep the app (and code) as simple as possible. Along those lines, in React, best practices are to keep components and any internal state within a component as small as possible. Also, the easiest way to start building is by rendering the data model in the UI, but with no interactivity. Starting with a static version of the app won’t require state yet, because state is reserved only for interactivity, that is, data that changes over time.
 
