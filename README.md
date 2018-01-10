@@ -2,6 +2,7 @@
 Welcome to My Programming Blog. 
 
 # Read My Blog Posts
-To view my blog posts, please visit: (https://github.com/jffernan/jffernan.github.io/tree/master/_posts)
+To view my blog posts, please visit: [https://github.com/jffernan/jffernan.github.io/tree/master/_posts]
+(https://github.com/jffernan/jffernan.github.io/tree/master/_posts)
 
 # Thank you for visiting my blog!
