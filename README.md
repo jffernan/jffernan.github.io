@@ -6,6 +6,9 @@ To view my blog posts, please [click here.](https://github.com/jffernan/jffernan
 
 # Contact
 James Fernandez
+
 jffernan@comcast.net
+
 206-658-5295
+
 [GitHub Profile](https://github.com/jffernan)
