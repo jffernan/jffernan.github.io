@@ -1,4 +1,6 @@
 # Project #5 Blog: React Redux Portfolio Project - https://github.com/jffernan/my-react-weather-app
+For the final boot camp project, I built My React Redux Weather App, where user can fetch current weather by entering location. The app was built using React & Redux Javascript libraries, and bootstrapped with Facebook’s Create-React-App generator.  Data fetched from OpenWeatherMap API.  App offers options to select from sample list of cities to fetch weather, enter new city to save to list, or delete city.  I styled UI with React-Bootstrap JS library of reusable frontend components, such as buttons, forms, and labels.  Demo at: https://jffernan.github.io/my-react-redux-weather-app/
+
 This blog is about my completion of Project #5, React Redux Portfolio Project.  Thankfully, this project is the final project in completing the Full Stack Web Development with React online boot camp program.  The project entailed building a React-Redux, single-page app (SPA) containing a user interface (UI).  With only a few requirements, the project was mostly open-ended and allowed lots of freedom to choose what to build.  The project was the opportunity to show what I have learned and what I know now. 
 
 Briefly, I will explain the advantages of using React:
@@ -41,3 +43,5 @@ The following list highlights the key features of My React Weather App:
 •	Within the Map page, I provided a ‘custom link” to Google Maps, which will redirect to Google Maps displaying a map of any location the user has already entered.
 
 Thank you for reading my blog!  Visit GitHub to download my app at: https://github.com/jffernan/my-react-weather-app.  Thanks again!
+
+
